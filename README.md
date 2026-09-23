@@ -1,2 +1,2 @@
-# PyGameEngine
- A basic game engine made with pygame library
+# PyObjViewer
+My amateur attempt at making a 3d object viewer with pygame
